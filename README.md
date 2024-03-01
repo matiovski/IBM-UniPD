@@ -5,13 +5,13 @@ Guide, date, testi, scadenze, tutto raccolto in un unica repository di informazi
 
 ## 🎓*Scheda del corso* 
 
-Qua trovate il quadro generale delle attività formattive, syllabu/contenuto e modalità di esami dei singoli insegnamenti:
+Qua trovate il quadro generale delle attività formattive, syllabus/contenuto e modalità di esami dei singoli insegnamenti:
 
-[**Anno 1 - Scheda del corso**](https://didattica.unipd.it/off/2022/LT/IN/IN2374)
+[**Anno 1 - Scheda del corso**](https://www.didattica.unipd.it/off/2023/LT/IN/IN2374)
 
-[**Anno 2 - Scheda del corso**](https://didattica.unipd.it/off/2021/LT/IN/IN2374)
+[**Anno 2 - Scheda del corso**](https://www.didattica.unipd.it/off/2022/LT/IN/IN2374)
 
-[**Anno 3 - Scheda del corso**](https://didattica.unipd.it/off/2020/LT/IN/IN2374)
+[**Anno 3 - Scheda del corso**](https://www.didattica.unipd.it/off/2021/LT/IN/IN2374)
 
 Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel insegnamento.
 
@@ -25,8 +25,8 @@ Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel i
 ## Link utili
 
 - ***[📅 Calendario degli appelli](https://www.dei.unipd.it/esami/month.php?year=2023&month=6&day=13&area=3)*** - per vedere data, ora e aula degli appelli, per tutti gli anni di Ingegneria Biomedica.
-- ***[👍 Punteggi Professori - Valutazione della didattica](https://apex.cca.unipd.it/pls/apex/f?p=392:7:::::P7_CDS,P7_SEDE_SIGLA:IN2374,PD)*** - utili per avere un'idea su come insegna il professore, prima di decidere di seguire un suo corso. **In fondo alla pagina trovate i vari insegnamenti**.
-- ***[📆 Calendario Accademico](https://www.unipd.it/calendario-accademico-2022-2023)*** - principali scadenze, vacanze, feste, date inizio sessioni, ecc.
+- ***[👍 Punteggi Professori - Valutazione della didattica](https://opinionistudenti.didattica.unipd.it/it/public/opinione/2022/IN/IN2374/PD)*** - utili per avere un'idea su come insegna il professore, prima di decidere di seguire un suo corso. **In fondo alla pagina trovate i vari insegnamenti**.
+- ***[📆 Calendario Accademico](https://www.unipd.it/calendario-scadenze)*** - principali scadenze, vacanze, feste, date inizio sessioni, ecc.
 [Orari lezioni](https://www.unipd.it/orario-lezioni)
 
 ## Guide e informazioni
@@ -36,7 +36,7 @@ Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel i
 <!-- - [🚧🌳 2° Anno 🚧]-->
 - *[🍂 3° Anno - Piano di studi, Curriculum, Classi](/Dati/Guide/Curriculum_e_Classi.md)*
 - *[🍂 3° Anno - Presentazioni Lauree Magistrali](https://www.dei.unipd.it/node/1653)*
-- *[🍂 3° Anno - Cose da sapere per **Laurearsi**](https://www.spgi.unipd.it/didattica/guida-rapida-studenti/cose-da-sapere-laurearsi)* - *Come scrivo la mia tesi?*, *Quando mi laureo?*, *Come si forma il voto finale?*
+- *[🍂 3° Anno - Cose da sapere per **Laurearsi**](https://www.spgi.unipd.it/didattica/guida-rapida-studenti/cose-da-sapere-laurearsi)* - *come scrivo la mia tesi?* *Quando mi laureo?* *Come si forma il voto finale?*
 - *[🍂 3° Anno - Come fare domanda di laurea](https://www.unipd.it/laurearsi)*
 
 
@@ -45,7 +45,7 @@ Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel i
 
 ##  Salute Convenzionata UniPD
 - [💊 Assistenza sanitaria e psicologica gratuita per studenti](https://www.unipd.it/assistenza-sanitaria)
-- [🎐 Risorse e supporti per studentesse e studenti con disabilità o difficoltà di apprendimento](https://www.unipd.it/risorse-supporti-studenti-disabilita-difficolta-apprendimento) (anche per studenti con solo problemi di ansia/disturbi umore/depressione documentati, anche in assenza di certificazioni)
+- [🎐 Risorse e supporti per studentesse e studenti con disabilità o difficoltà di apprendimento](https://www.unipd.it/risorse-supporti-studenti-disabilita-difficolta-apprendimento) - anche per studenti con solo problemi di ansia/disturbi dell'umore/depressione documentati, anche in assenza di certificazioni.
 
 ## Appunti
 
@@ -80,7 +80,7 @@ Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel i
 
 ## Disclaimer
 
-##### *I contenuti qua presenti non sostituiscono i canali di comunicazioni già esistenti (Moodle, sito ufficiale [UniPD.it](unipd.it)). La repo qua presente è gestita esclusivamente da studenti e/o rappresentati degli studenti di questo corso. UniPd e gli autori di queste pagine non si assumono nessuna responsabilità per il contenuto pubblicato qui. Le comunicazioni ai rappresentanti da parte degli utenti non costituiscono né garantiscono comunicazione di alcun genere a UniPd o agli organi affiliati. I suoi contenuti vengono messi a disposizione così come sono e non viene fornita alcuna garanzia per l’aggiornamento, la correttezza, la completezza o la qualità delle informazioni messe a disposizione.*
+##### *I contenuti qua presenti non sostituiscono i canali di comunicazioni già esistenti (Moodle, [sito ufficiale UniPD](https://www.unipd.it/)). La repo qua presente è gestita esclusivamente da studenti e/o rappresentati degli studenti di questo corso. UniPd e gli autori di queste pagine non si assumono nessuna responsabilità per il contenuto pubblicato qui. Le comunicazioni ai rappresentanti da parte degli utenti non costituiscono né garantiscono comunicazione di alcun genere a UniPd o agli organi affiliati. I suoi contenuti vengono messi a disposizione così come sono e non viene fornita alcuna garanzia per l’aggiornamento, la correttezza, la completezza o la qualità delle informazioni messe a disposizione.*
 
 ##### *Il server Discord non vuole sostituirsi ai canali di comunicazioni già esistenti (Moodle, e-mail istituzionale) in alcun modo ed è gestito esclusivamente da studenti e/o rappresentati degli studenti di questo corso. UniPd e l'autore non si assumono nessuna responsabilità per il contenuto pubblicato qui. Le comunicazioni ai rappresentanti da parte degli utenti non costituiscono né garantiscono comunicazione di alcun genere a UniPd o agli organi affiliati. Il server e i suoi contenuti vengono messi a disposizione così come sono e non viene fornita alcuna garanzia per l’aggiornamento, la correttezza, la completezza o la qualità delle informazioni messe a disposizione.*
 

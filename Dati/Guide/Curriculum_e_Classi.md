@@ -13,7 +13,7 @@
 	- [Posso cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
 - [Classi](#classi)
 	- [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-varie-classi)
-	- [Si ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
+	- [Cosa cambia tra la classe L8 e L9 ai fini della magistrale?](#cosa-cambia-tra-la-classe-L8-e-L9-ai-fini-della-magistrale)
 	- [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
 	- [Posso cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
 - [Piano di studi](#piano-di-studi)
@@ -36,11 +36,9 @@
 		- [Curriculum Applicativo, classe L8, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
 		- [Curriculum Applicativo, classe L9, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
 		- [Curriculum Applicativo, classe L9, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
-	- [Ho trovato un errore in questa guida. Come posso contribuire?](#ho-trovato-un-errore-in-questa-guida-come-posso-contribuire)
+- [Ho trovato un errore in questa guida. Come posso contribuire?](#ho-trovato-un-errore-in-questa-guida-come-posso-contribuire)
 
 ---
-
-
 
 ### **Dove trovo informazioni sugli esami che posso tenere/semestri delle lezioni/docenti del corso/syllabus/percorso formativo?**
 Trovi tutto qui: https://didattica.unipd.it/off/2018/LT/IN/IN2374
@@ -74,7 +72,7 @@ Poi ci sono 15 CFU a scelta vincolata, in base alla classe di laurea di apparten
 ---
 
 ## Che differenza c’è tra i due curricula?
-Nel curriculum applicativo un esame (di 6 crediti) dei 15 CFU a scelta vincolata viene sostituito dal tirocinio."
+Nel curriculum applicativo un esame (di 6 crediti) dei 15 CFU a scelta vincolata viene sostituito dal tirocinio.
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*<!-- omit in toc -->
 ---
@@ -86,8 +84,7 @@ Sì, se non lo vuoi fare devi cambiare curriculum. I termini di scadenza sono qu
 ---
 
 ## Sto facendo il curriculum generale, posso fare il tirocinio?
-No, se lo vuoi fare devi cambiare il curriculum. I termini di scadenza sono qua:
-https://www.unipd.it/cambio-curriculum
+No, se lo vuoi fare devi cambiare il curriculum. I termini di scadenza sono qua: https://www.unipd.it/cambio-curriculum
 
 In caso esiste anche la possibilità di fare il tirocinio senza CFU. Si possono chiedere più informazioni alla segreteria del DEI.
 
@@ -95,7 +92,7 @@ In caso esiste anche la possibilità di fare il tirocinio senza CFU. Si possono 
 ---
 
 ## Fare un curriculum o l’altro limita l’accesso alla magistrale?
-No, è una laurea, il tirocinio cerca di preparare un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale.
+No, è una laurea, il tirocinio cerca di preparare un po' per il lavoro. Non c’entra niente con l’accesso alla magistrale.
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*<!-- omit in toc -->
 ---
@@ -114,7 +111,7 @@ Facendo il piano di studi è molto più facile da capire.
 ## Come si fa a cambiare il curriculum?
 Attualmente si compila il modulo di cambio curriculum e si manda via mail con una scansione di un documento di identità a carriere.studenti@unipd.it o anche a ingegneria.studenti@unipd.it
 
-In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, servono il modulo e la fotocopia del documento di identità.
+In presenza bisogna andare all’Ufficio Carriere Studenti in via Lungoargine Piovego 2, servono il modulo e la fotocopia del documento di identità.
 Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*<!-- omit in toc -->
@@ -146,7 +143,7 @@ Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare
 ###### *<p align="right">[Torna all'indice](#indice)</p>*<!-- omit in toc -->
 ---
 
-## Si ma quindi oltre a questo a me cosa cambiano le classi?
+## Cosa cambia tra la classe L8 e L9 ai fini della magistrale?
 Se vuoi fare la magistrale di Bioingegneria a Padova non ti cambia niente se non gli esami che puoi dare. Ma se vuoi fare per esempio una laurea di Ingegneria Industriale (fuori o dentro Padova) è probabile che ti verrà chiesta una classe L9. O magari di integrare qualche esame per poter fare richiesta di ammissione al corso. Queste informazioni si possono trovare sul bando di ammissione al corso di studi magistrale che si vorrà intraprendere. 
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*<!-- omit in toc -->
@@ -157,7 +154,7 @@ Attualmente si  compila il modulo di cambio classe che trovi qua: https://www.un
 
 Si manda via mail assieme a fotocopia del documento di identità a carriere.studenti@unipd.it o anche a ingegneria.studenti@unipd.it
 
-In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, serve il modulo e la fotocopia del documento di identità.
+In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, servono il modulo e la fotocopia del documento di identità.
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*<!-- omit in toc -->
 ---
@@ -193,7 +190,7 @@ La "Guida alla compilazione del piano di studi" si trova qui: www.astro.unipd.it
 ---
 
 ## Quali sono gli esami a libera scelta?
-Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quindi dovete comunque dare a prescindere):
+Tutti quelli della lista seguente, escludendo quelli che sono vincolati che dovete comunque dare a prescindere:
 
 ***Semestre 1***
 
@@ -235,7 +232,7 @@ Questi esami contano solo verso la somma totale di **crediti a libera scelta**. 
 ---
 
 
-## Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?
+## Perchè alcuni esami sono ad accesso programmato? Come mi inscrivo?
 
 Alcune materie a scelta libera hanno un numero limitato di posti, per favorire sia la qualità del corso o per evitare sovraffollamenti quando si ha una disponibilità limitata di aule o difficoltà a organizzare il tutto.
 
@@ -255,7 +252,7 @@ Se già approvati tramite domanda di riconoscimento preventiva e già caricati a
 
 ## Ma per il tirocinio come si fa? Quando si fa? Quanto dura?
 
-Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37). 
+Trovate tutte le informazioni, linee guida e modalità sul sito della [Scuola di ingegneria](https://ingegneria.unipd.it/studenti-iscritti/stage-e-tirocini) e alla [pagina stem del DEI](https://stem.elearning.unipd.it/mod/book/view.php?id=234&chapterid=50). 
 
 Potete farlo in un momento qualsiasi dell'anno, finché rispetta i criteri stabiliti da Unipd. 
 
@@ -275,10 +272,9 @@ Quali esami devo dare al terzo anno?
 	- Per il *curriculum applicativo* il **tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno e sapete che dura 2 mesi. Trovate il resto delle informazioni alla [domanda corispettiva](#ma-per-il-tirocinio-come-si-fa-quando-si-fa-quanto-dura).
 	
 3. Bisogna avere la somma (in un anno) di ***15 (o 18) CFU tra gli esami liberi*** *o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione* ([questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa) risponderà ai vostri dubbi). Quindi si possono avere:
-
-  - Esame da 6 crediti + Esame 9 crediti = 15 CFU
-  - Esame da 9 crediti + Esame 9 crediti = 18 CFU
-  - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti = 18 CFU
+  	- Esame da 6 crediti + Esame 9 crediti = 15 CFU
+	- Esame da 9 crediti + Esame 9 crediti = 18 CFU
+	- Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti = 18 CFU
 
 Di seguito, l'elenco degli esami obbligatori, vincolati e liberi di ogni Curriculum, Classe e Percorso. 
 

@@ -55,18 +55,13 @@ Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel i
 
 ---
 
-## Discord 
+## 📱Discord 
 
-## 📱 Link server
+### Link server
 - **_Ingegneria Biomedica_** : [https://discord.com/invite/QvQ92GE](https://discord.com/invite/QvQ92GE)
 - **_Bioingegneria_**: [https://discord.com/invite/GHa9tQe](https://discord.com/invite/GHa9tQe)
-
 - **_Tutti gli altri server / Hub UniPD_**: [https://discord.gg/dtaThyfrDA](https://discord.gg/dtaThyfrDA)
-
-
-
-
-## Regole
+### Regole
 - *[Regole del server Discord](/Dati/Altro/regole.md)*
 - ***[Guida all'utilizzo di Discord](http://tiny.cc/guidaDiscord)*** (da leggere da PC o Tablet)
 - *[Guida per il principiante (ufficiale)](https://support.discord.com/hc/it/articles/360045138571)*

@@ -53,12 +53,12 @@ Se fuori corso, per ogni esame ancora da dare, guardare l'anno relativo a quel i
   - <!--- *[S&S - Segnali e Sistemi] --->
   - [ISB - Ingegneria dei Sistemi Biologici](/Dati/Studio/II%20Anno/ISB)
 - 3° Anno
-  - <!--- *[Biomeccanica - chat domande da discord](Dati/Studio/III%20anno/Biomeccanica/1e2-biomeccanica-domande.html)*-->
-  - <!--- *[ESB - Elaborazione di Segnali Biomedici](/Dati/Studio/III%20anno/ESB) --->
-  - <!--- *[FDA - Fondamenti di Automatica](/Dati/Studio/III%20anno/FDA) --->
-  - [MADB - Misure e Acquisizione di Dati Biomedici](/Dati/Studio/III%20anno/MADB)
-  - [InfoMed - Informatica Medica](/Dati/Studio/III%20anno/InfoMed)
-  - [TSB - Tecnologia e Strumentazione Biomedica](/Dati/Studio/III%20anno/TSB)
+  - <!--- *[Biomeccanica - chat domande da discord](Dati/Studio/III%20Anno/Biomeccanica/1e2-biomeccanica-domande.html)*-->
+  - <!--- *[ESB - Elaborazione di Segnali Biomedici](/Dati/Studio/III%20Anno/ESB) --->
+  - <!--- *[FDA - Fondamenti di Automatica](/Dati/Studio/III%20Anno/FDA) --->
+  - [MADB - Misure e Acquisizione di Dati Biomedici](/Dati/Studio/III%20Anno/MADB)
+  - [InfoMed - Informatica Medica](/Dati/Studio/III%20Anno/InfoMed)
+  - [TSB - Tecnologia e Strumentazione Biomedica](/Dati/Studio/III%20Anno/TSB)
 ---
 
 ## Discord 
